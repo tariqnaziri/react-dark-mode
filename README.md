@@ -2,9 +2,9 @@
 
 A website made with React displaying links to different articles. The user can toggle between dark mode and light mode.
 
-![Screenshot of Dark mode toggle](https://i.imgur.com/eCprMXi.png)
+![Screenshot of Dark mode toggle project](https://i.imgur.com/o7hzUdc.png)
 
-**Link to project:** https://tariqnaziri.github.io/sign-in-form/
+**Link to project:** https://tariqnaziri.github.io/react-dark-mode/
 
 ## How it's made:
 
